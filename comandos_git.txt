@@ -1,5 +1,7 @@
 para iniciar repositorio -> git init (somente a 1x)
 
+Para criar um novo repositório enquanto especifica o nome do projeto, use o seguinte comando -> git init [nome do projeto]
+
 verificar como esta o projeto -> git status
 
 adicionar os arquivos na arvore git -> git add. ou git add ex1.py
@@ -7,3 +9,9 @@ adicionar os arquivos na arvore git -> git add. ou git add ex1.py
 comitar (commit) -> git commit -m "(msg comit)"
 
 para puxar -> git push
+
+Em sua forma básica, o git log permite visualizar uma lista cronológica do histórico de commits -> git log
+
+mais comandos
+
+https://www.hostinger.com.br/tutoriais/comandos-git?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:BR-t3&utm_medium=ppc&gad_source=1&gad_campaignid=19588998604&gbraid=0AAAAADMy-hY2oNfWG-0iXXkRDwcRKh-T-&gclid=CjwKCAjw56DBBhAkEiwAaFsG-rdeaqppv4K_sU3idRDI5hsK_NJYpORzUnG07rbbrplHTIye63abdxoCIq4QAvD_BwE
