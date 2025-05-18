@@ -5,3 +5,5 @@ verificar como esta o projeto -> git status
 adicionar os arquivos na arvore git -> git add. ou git add ex1.py
 
 comitar (commit) -> git commit -m "(msg comit)"
+
+para puxar -> git push
